@@ -6,4 +6,4 @@ class Post
   end
 end
 
-post = post.new
+post = Post.new
