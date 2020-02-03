@@ -3,4 +3,4 @@ attr_accessor :name
 end
 
 
-artist = artist.new
+artist = Artist.new
