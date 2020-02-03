@@ -3,4 +3,4 @@ attr_accessor :name
 end
 
 
-author = author.new
+author = Author.new
