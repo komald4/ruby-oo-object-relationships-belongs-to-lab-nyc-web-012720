@@ -3,4 +3,4 @@ attr_accessor :name
 end
 
 
-song = song.new
+song = Song.new
